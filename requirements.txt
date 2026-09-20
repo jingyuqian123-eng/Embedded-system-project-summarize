@@ -1,0 +1,6 @@
+pyserial>=3.5
+Pillow>=10.0
+
+# Microphone and speech recognition used by KEY0 push-to-talk and the GUI.
+SpeechRecognition>=3.10
+PyAudio>=0.2.14

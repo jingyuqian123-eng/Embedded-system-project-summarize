@@ -1,0 +1,16 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Local credentials: keep the real key only on the development machine.
+local_api_config.py
+
+# IDE/editor local state
+.vscode/
+.idea/
+
